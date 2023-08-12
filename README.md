@@ -1,0 +1,2 @@
+# rabbitmq
+experiments with RabbitMQ
